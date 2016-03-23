@@ -1,0 +1,24 @@
+{
+  "name": "www.bbsing.info",
+  "private": true,
+  "version": "1.0.0",
+  "description": "BBSing.info Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbs-io/www.bbsing.info.git"
+  },
+  "author": "Michael J. Ryan <tracker1@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bbs-io/www.bbsing.info/issues"
+  },
+  "homepage": "https://github.com/bbs-io/www.bbsing.info#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
